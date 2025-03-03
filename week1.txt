@@ -1,1 +1,2 @@
-Day la file week1.txt thuoc branch week1 va branch main
+Day la file week1.txt thuoc branch week1
+vaf thuoc branch main
